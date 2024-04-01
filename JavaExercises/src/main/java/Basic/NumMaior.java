@@ -1,3 +1,5 @@
+package Basic;
+
 public class NumMaior {
 
     public static void main(String[] args) {

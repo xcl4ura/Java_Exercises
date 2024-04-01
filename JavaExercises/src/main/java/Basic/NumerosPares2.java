@@ -1,3 +1,5 @@
+package Basic;
+
 public class NumerosPares2 {
 
     public static void main(String[] args) {

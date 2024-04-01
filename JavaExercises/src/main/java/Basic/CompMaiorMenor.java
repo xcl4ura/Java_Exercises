@@ -1,3 +1,4 @@
+package Basic;
 
 public class CompMaiorMenor {
     public static void main(String[] args) {

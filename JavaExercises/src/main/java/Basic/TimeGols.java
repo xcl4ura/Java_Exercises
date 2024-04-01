@@ -1,3 +1,4 @@
+package Basic;
 
 public class TimeGols {
     public static void main(String[] args) {
