@@ -1,4 +1,4 @@
-package Basic;
+package basic;
 
 public class MaiorIdade {
     public static void main(String[] args) {

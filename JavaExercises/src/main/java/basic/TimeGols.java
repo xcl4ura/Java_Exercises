@@ -1,4 +1,4 @@
-package Basic;
+package basic;
 
 public class TimeGols {
     public static void main(String[] args) {
