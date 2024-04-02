@@ -1,5 +1,5 @@
  # Java Exercises 💻🤓
-> Este repositório foi criado com o objetivo de aprimorar os meus conhecimentos na linguagem Java através da prática e resolução de diversos exercícios. 
+> Este repositório foi criado com o objetivo de aprimorar os meus conhecimentos na linguagem Java através da prática e resolução de diversos exercícios de lógica. Nele contém todos os códigos que realizei durante minha trilha de estudos que se iniciou em 2021 até os dias atuais. 
 
 
 ## Como posso mexer no código? 🤯🤯
@@ -10,4 +10,4 @@
 
 <hr> 
 
-## 🚨 Sugestões e/ou Propostas são super aceitas 🤙
+### 🚨 Sugestões e/ou Propostas são super aceitas 🤙

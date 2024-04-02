@@ -1,3 +1,5 @@
+package basic;
+
 public class ImcCalculator {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package basic;
+
 public class ComparacaoLetras {
 
     public static void main(String[] args) {
